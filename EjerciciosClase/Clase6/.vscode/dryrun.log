@@ -1,0 +1,10 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/aresu/Documents/Escuela/Distribuidos/EjerciciosClase/Clase6'
+javac -g PruebaRectangulo.java
+javac -g Rectangulo.java
+javac -g Coordenada.java
+javac -g PoligonoIrreg.java
+javac -g PruebaPoligonoIrreg.java
+javac -g PruebaPoligonoIrreg2.java
+make: Leaving directory 'c:/Users/aresu/Documents/Escuela/Distribuidos/EjerciciosClase/Clase6'
+ 
